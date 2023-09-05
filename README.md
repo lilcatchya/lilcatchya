@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lilcatchya, or Ricardo for not virtual people
 - 👀 Interested in Web Development and Game Development
 - 🌱 Currently learning Web Development: HTML, CSS, JS, ReactJS, NodeJS, SQL
-- 💞️ Looking to collaborate on FIESC
 - 📫 How to reach me:
 - ✉️ Gmail -> ricardofranco2509@gmail.coim
 - 💼 LinkedIn -> https://www.linkedin.com/in/ricardo-javier-franco/
